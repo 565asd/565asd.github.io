@@ -242,7 +242,7 @@ img.footer_mini_logo:hover {
     padding: 1rem;
     color: var(--Jay-fontcolor);
     margin-top: 1rem;
-    background: var(--Jay-secondbg);
+    background: #499793;
     display: flex;
     overflow: hidden;
     z-index: 1002;
